@@ -1,0 +1,17 @@
+.task-modal {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
